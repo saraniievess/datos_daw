@@ -15,7 +15,7 @@
 - Los datos generados por los usuarios (Big Data) se procesan y analizan (análisis de datos). Luego, se entrenan modelos de Machine Learning y Deep Learning que detectan patrones. Estos modelos forman parte de un sistema de IA que toma decisiones automatizadas (por ejemplo, recomendar una serie).
 
 ## 4) Pipeline
-- Datos masivos → Procesamiento → Análisis → Modelo ML/DL → IA → Decisión
+Datos masivos → Procesamiento → Análisis → Modelo ML/DL → IA → Decisión
 
 ## 5) 5V del Big Data
 - Volumen: Netflix maneja millones de datos diarios de usuarios.
@@ -32,14 +32,19 @@
 
 ## 7) Tabla
 | Concepto | Función |
+| Big Data | Almacenar grandes volúmenes de datos |
+| Análisis | Extraer información útil de los datos |
+| Machine Learning y Deep Learning | Aprender patrones y hacer predicciones |
+| IA | Tomar decisiones automatizadas |
 
 ## 8) Diagrama
+Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: datos incorrectos o incompletos.
+- Solución 1: limpieza y validación de datos.
+- Problema 2: similitud en recomendaciones.
+- Solución 2: introducir diversidad y ajustar algoritmos para evitar burbujas de contenido.
 
 ## 10) Fuente
-- Enlace:.
+- Enlace: https://www.ibm.com/topics/big-data
