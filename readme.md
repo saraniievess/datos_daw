@@ -15,20 +15,20 @@
 - Los datos generados por los usuarios (Big Data) se procesan y analizan (análisis de datos). Luego, se entrenan modelos de Machine Learning y Deep Learning que detectan patrones. Estos modelos forman parte de un sistema de IA que toma decisiones automatizadas (por ejemplo, recomendar una serie).
 
 ## 4) Pipeline
--
+- Datos masivos → Procesamiento → Análisis → Modelo ML/DL → IA → Decisión
 
 ## 5) 5V del Big Data
-- Volumen:
-- Velocidad:
-- Variedad:
-- Veracidad:
-- Valor:
+- Volumen: Netflix maneja millones de datos diarios de usuarios.
+- Velocidad: los datos se generan en tiempo real (cada clic, pausa o búsqueda).
+- Variedad: datos de video, texto (búsquedas), comportamiento, dispositivos.
+- Veracidad: necesidad de datos fiables para evitar recomendaciones incorrectas.
+- Valor: mejora la experiencia del usuario y aumenta el tiempo de visualización.
 
 ## 6) Ejemplo aplicado
-- Datos:
-- Análisis:
-- Modelo:
-- Decisión:
+- Datos: historial de visualización, tiempo de reproducción, valoraciones, búsquedas.
+- Análisis: identificación de gustos, géneros preferidos y patrones de consumo.
+- Modelo: algoritmos de recomendación basados en Machine Learning.
+- Decisión: mmostrar películas y series personalizadas en la pantalla principal.
 
 ## 7) Tabla
 | Concepto | Función |
